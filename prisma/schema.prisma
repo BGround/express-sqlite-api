@@ -1,0 +1,38 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model provinces {
+  id           String   @id @unique @default(uuid())
+  name         String   @unique @default("")
+  shortName    String   @map("short_name")
+  capital      String   @default("")
+  idCard       String   @unique @default("") @map("id_card")
+  licensePlate String   @default("") @map("license_plate")
+  createTime   DateTime @default(now()) @map("create_time")
+  updateTime   DateTime @updatedAt @map("update_time")
+
+  // @@map 作用是为数据库表起名字
+  @@map("provinces")
+}
+
+model citys {
+  id           String   @id @unique @default(uuid())
+  name         String   @unique @default("")
+  capital      String   @default("")
+  idCard       String   @unique @default("") @map("id_card")
+  licensePlate String   @default("") @map("license_plate")
+  createTime   DateTime @default(now()) @map("create_time")
+  updateTime   DateTime @updatedAt @map("update_time")
+
+  // @@map 作用是为数据库表起名字
+  @@map("citys")
+}
