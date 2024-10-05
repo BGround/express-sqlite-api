@@ -1,9 +1,11 @@
 const express = require('express')
 const app = express()
 const port = 3000
+const prisma = require('./db/db')
 
-app.get('/', (req, res) => {
-  res.send('region info')
+app.get('/', async (req, res) => {
+  let data = await prisma.provinces.findMany({where: {}})
+  res.send(data)
 })
 
 app.listen(port, () => {

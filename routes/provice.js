@@ -9,7 +9,6 @@ router.get('/', async (req, res) => {
   })
 })
 
-
 router.post('/', async (req, res) => {
   console.log("BB", req)
   await prisma.provinces.createMany({
