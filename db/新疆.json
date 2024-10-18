@@ -1,0 +1,110 @@
+[
+  {
+    "name": "新疆",
+    "capital": "乌鲁木齐市",
+    "licensePlate": "新A",
+    "idCard": "650101"
+  },
+  {
+    "name": "新疆",
+    "capital": "克拉玛依市",
+    "licensePlate": "新B",
+    "idCard": "650201"
+  },
+  {
+    "name": "新疆",
+    "capital": "吐鲁番市",
+    "licensePlate": "新C",
+    "idCard": "650402"
+  },
+  {
+    "name": "新疆",
+    "capital": "哈密市",
+    "licensePlate": "新D",
+    "idCard": "650402"
+  },
+  {
+    "name": "新疆",
+    "capital": "昌吉回族自治州",
+    "licensePlate": "新E",
+    "idCard": "652301"
+  },
+  {
+    "name": "新疆",
+    "capital": "博尔塔拉蒙古自治州",
+    "licensePlate": "新F",
+    "idCard": "652701"
+  },
+  {
+    "name": "新疆",
+    "capital": "巴音郭楞蒙古自治州",
+    "licensePlate": "新G",
+    "idCard": "652801"
+  },
+  {
+    "name": "新疆",
+    "capital": "阿克苏地区",
+    "licensePlate": "新H",
+    "idCard": "652901"
+  },
+  {
+    "name": "新疆",
+    "capital": "克孜勒苏柯尔克孜自治州",
+    "licensePlate": "新I",
+    "idCard": "653001"
+  },
+  {
+    "name": "新疆",
+    "capital": "喀什地区",
+    "licensePlate": "新J",
+    "idCard": "653101"
+  },
+  {
+    "name": "新疆",
+    "capital": "和田地区",
+    "licensePlate": "新K",
+    "idCard": "653201"
+  },
+  {
+    "name": "新疆",
+    "capital": "伊犁哈萨克自治州",
+    "licensePlate": "新L",
+    "idCard": "654001"
+  },
+  {
+    "name": "新疆",
+    "capital": "塔城地区",
+    "licensePlate": "新M",
+    "idCard": "654201"
+  },
+  {
+    "name": "新疆",
+    "capital": "阿勒泰地区",
+    "licensePlate": "新N",
+    "idCard": "654301"
+  },
+  {
+    "name": "新疆",
+    "capital": "石河子市",
+    "licensePlate": "新O",
+    "idCard": "659001"
+  },
+  {
+    "name": "新疆",
+    "capital": "阿拉尔市",
+    "licensePlate": "新P",
+    "idCard": "659002"
+  },
+  {
+    "name": "新疆",
+    "capital": "图木舒克市",
+    "licensePlate": "新Q",
+    "idCard": "659003"
+  },
+  {
+    "name": "新疆",
+    "capital": "五家渠市",
+    "licensePlate": "新R",
+    "idCard": "659004"
+  }
+]

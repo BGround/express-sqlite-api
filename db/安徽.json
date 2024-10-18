@@ -1,0 +1,98 @@
+[
+  {
+    "name": "安徽",
+    "capital": "合肥市",
+    "licensePlate": "皖A",
+    "idCard": "340100"
+  },
+  {
+    "name": "安徽",
+    "capital": "芜湖市",
+    "licensePlate": "皖B",
+    "idCard": "340200"
+  },
+  {
+    "name": "安徽",
+    "capital": "蚌埠市",
+    "licensePlate": "皖C",
+    "idCard": "340300"
+  },
+  {
+    "name": "安徽",
+    "capital": "淮南市",
+    "licensePlate": "皖D",
+    "idCard": "340400"
+  },
+  {
+    "name": "安徽",
+    "capital": "马鞍山市",
+    "licensePlate": "皖E",
+    "idCard": "340500"
+  },
+  {
+    "name": "安徽",
+    "capital": "淮北市",
+    "licensePlate": "皖F",
+    "idCard": "340600"
+  },
+  {
+    "name": "安徽",
+    "capital": "铜陵市",
+    "licensePlate": "皖G",
+    "idCard": "340700"
+  },
+  {
+    "name": "安徽",
+    "capital": "安庆市",
+    "licensePlate": "皖H",
+    "idCard": "340800"
+  },
+  {
+    "name": "安徽",
+    "capital": "黄山市",
+    "licensePlate": "皖J",
+    "idCard": "341000"
+  },
+  {
+    "name": "安徽",
+    "capital": "滁州市",
+    "licensePlate": "皖K",
+    "idCard": "341100"
+  },
+  {
+    "name": "安徽",
+    "capital": "阜阳市",
+    "licensePlate": "皖L",
+    "idCard": "341200"
+  },
+  {
+    "name": "安徽",
+    "capital": "宿州市",
+    "licensePlate": "皖M",
+    "idCard": "341300"
+  },
+  {
+    "name": "安徽",
+    "capital": "六安市",
+    "licensePlate": "皖N",
+    "idCard": "341500"
+  },
+  {
+    "name": "安徽",
+    "capital": "亳州市",
+    "licensePlate": "皖P",
+    "idCard": "341600"
+  },
+  {
+    "name": "安徽",
+    "capital": "池州市",
+    "licensePlate": "皖Q",
+    "idCard": "341700"
+  },
+  {
+    "name": "安徽",
+    "capital": "宣城市",
+    "licensePlate": "皖R",
+    "idCard": "341800"
+  }
+]

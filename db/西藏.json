@@ -1,0 +1,44 @@
+[
+  {
+    "name": "西藏",
+    "capital": "拉萨市",
+    "licensePlate": "藏A",
+    "idCard": "540100"
+  },
+  {
+    "name": "西藏",
+    "capital": "日喀则市",
+    "licensePlate": "藏B",
+    "idCard": "540200"
+  },
+  {
+    "name": "西藏",
+    "capital": "昌都市",
+    "licensePlate": "藏C",
+    "idCard": "540300"
+  },
+  {
+    "name": "西藏",
+    "capital": "林芝市",
+    "licensePlate": "藏D",
+    "idCard": "540400"
+  },
+  {
+    "name": "西藏",
+    "capital": "山南市",
+    "licensePlate": "藏E",
+    "idCard": "540500"
+  },
+  {
+    "name": "西藏",
+    "capital": "那曲市",
+    "licensePlate": "藏F",
+    "idCard": "540600"
+  },
+  {
+    "name": "西藏",
+    "capital": "阿里地区",
+    "licensePlate": "藏G",
+    "idCard": "542500"
+  }
+]

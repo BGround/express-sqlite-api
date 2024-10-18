@@ -1,0 +1,98 @@
+[
+  {
+    "name": "北京",
+    "capital": "东城区",
+    "licensePlate": "京A",
+    "idCard": "110101"
+  },
+  {
+    "name": "北京",
+    "capital": "西城区",
+    "licensePlate": "京B",
+    "idCard": "110102"
+  },
+  {
+    "name": "北京",
+    "capital": "朝阳区",
+    "licensePlate": "京C",
+    "idCard": "110105"
+  },
+  {
+    "name": "北京",
+    "capital": "丰台区",
+    "licensePlate": "京D",
+    "idCard": "110106"
+  },
+  {
+    "name": "北京",
+    "capital": "石景山区",
+    "licensePlate": "京E",
+    "idCard": "110107"
+  },
+  {
+    "name": "北京",
+    "capital": "海淀区",
+    "licensePlate": "京F",
+    "idCard": "110108"
+  },
+  {
+    "name": "北京",
+    "capital": "门头沟区",
+    "licensePlate": "京G",
+    "idCard": "110109"
+  },
+  {
+    "name": "北京",
+    "capital": "房山区",
+    "licensePlate": "京H",
+    "idCard": "110111"
+  },
+  {
+    "name": "北京",
+    "capital": "通州区",
+    "licensePlate": "京J",
+    "idCard": "110112"
+  },
+  {
+    "name": "北京",
+    "capital": "顺义区",
+    "licensePlate": "京K",
+    "idCard": "110113"
+  },
+  {
+    "name": "北京",
+    "capital": "昌平区",
+    "licensePlate": "京L",
+    "idCard": "110114"
+  },
+  {
+    "name": "北京",
+    "capital": "大兴区",
+    "licensePlate": "京M",
+    "idCard": "110115"
+  },
+  {
+    "name": "北京",
+    "capital": "怀柔区",
+    "licensePlate": "京N",
+    "idCard": "110116"
+  },
+  {
+    "name": "北京",
+    "capital": "平谷区",
+    "licensePlate": "京P",
+    "idCard": "110117"
+  },
+  {
+    "name": "北京",
+    "capital": "密云区",
+    "licensePlate": "京Q",
+    "idCard": "110118"
+  },
+  {
+    "name": "北京",
+    "capital": "延庆区",
+    "licensePlate": "京R",
+    "idCard": "110119"
+  }
+]

@@ -26,9 +26,9 @@ model provinces {
 
 model citys {
   id           String   @id @unique @default(uuid())
-  name         String   @unique @default("")
+  name         String   @default("")
   capital      String   @default("")
-  idCard       String   @unique @default("") @map("id_card")
+  idCard       String   @default("") @map("id_card")
   licensePlate String   @default("") @map("license_plate")
   createTime   DateTime @default(now()) @map("create_time")
   updateTime   DateTime @updatedAt @map("update_time")

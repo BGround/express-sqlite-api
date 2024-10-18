@@ -1,0 +1,110 @@
+[
+  {
+    "name": "海南",
+    "capital": "海口市",
+    "licensePlate": "琼A",
+    "idCard": "460100"
+  },
+  {
+    "name": "海南",
+    "capital": "三亚市",
+    "licensePlate": "琼B",
+    "idCard": "460200"
+  },
+  {
+    "name": "海南",
+    "capital": "三沙市",
+    "licensePlate": "琼C",
+    "idCard": "460300"
+  },
+  {
+    "name": "海南",
+    "capital": "儋州市",
+    "licensePlate": "琼D",
+    "idCard": "460400"
+  },
+  {
+    "name": "海南",
+    "capital": "文昌市",
+    "licensePlate": "琼E",
+    "idCard": "460500"
+  },
+  {
+    "name": "海南",
+    "capital": "琼海市",
+    "licensePlate": "琼F",
+    "idCard": "460600"
+  },
+  {
+    "name": "海南",
+    "capital": "万宁市",
+    "licensePlate": "琼G",
+    "idCard": "460700"
+  },
+  {
+    "name": "海南",
+    "capital": "东方市",
+    "licensePlate": "琼H",
+    "idCard": "460800"
+  },
+  {
+    "name": "海南",
+    "capital": "定安县",
+    "licensePlate": "琼J",
+    "idCard": "460900"
+  },
+  {
+    "name": "海南",
+    "capital": "屯昌县",
+    "licensePlate": "琼K",
+    "idCard": "461000"
+  },
+  {
+    "name": "海南",
+    "capital": "澄迈县",
+    "licensePlate": "琼L",
+    "idCard": "461100"
+  },
+  {
+    "name": "海南",
+    "capital": "临高县",
+    "licensePlate": "琼M",
+    "idCard": "461200"
+  },
+  {
+    "name": "海南",
+    "capital": "白沙黎族自治县",
+    "licensePlate": "琼N",
+    "idCard": "461300"
+  },
+  {
+    "name": "海南",
+    "capital": "昌江黎族自治县",
+    "licensePlate": "琼O",
+    "idCard": "461400"
+  },
+  {
+    "name": "海南",
+    "capital": "乐东黎族自治县",
+    "licensePlate": "琼P",
+    "idCard": "461500"
+  },
+  {
+    "name": "海南",
+    "capital": "陵水黎族自治县",
+    "licensePlate": "琼Q",
+    "idCard": "461600"
+  },
+  {
+    "name": "海南",
+    "capital": "保亭黎族苗族自治县",
+    "licensePlate": "琼R",
+    "idCard": "461700"
+  },
+  {
+    "name": "海南",
+    "capital": "琼中黎族苗族自治县",
+    "licensePlate": "琼S",
+    "idCard": "461800"
+  }
+]

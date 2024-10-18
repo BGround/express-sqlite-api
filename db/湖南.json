@@ -1,0 +1,86 @@
+[
+  {
+    "name": "湖南",
+    "capital": "长沙市",
+    "licensePlate": "湘A",
+    "idCard": "430100"
+  },
+  {
+    "name": "湖南",
+    "capital": "株洲市",
+    "licensePlate": "湘B",
+    "idCard": "430200"
+  },
+  {
+    "name": "湖南",
+    "capital": "湘潭市",
+    "licensePlate": "湘C",
+    "idCard": "430300"
+  },
+  {
+    "name": "湖南",
+    "capital": "衡阳市",
+    "licensePlate": "湘D",
+    "idCard": "430400"
+  },
+  {
+    "name": "湖南",
+    "capital": "邵阳市",
+    "licensePlate": "湘E",
+    "idCard": "430500"
+  },
+  {
+    "name": "湖南",
+    "capital": "岳阳市",
+    "licensePlate": "湘F",
+    "idCard": "430600"
+  },
+  {
+    "name": "湖南",
+    "capital": "常德市",
+    "licensePlate": "湘G",
+    "idCard": "430700"
+  },
+  {
+    "name": "湖南",
+    "capital": "张家界市",
+    "licensePlate": "湘H",
+    "idCard": "430800"
+  },
+  {
+    "name": "湖南",
+    "capital": "益阳市",
+    "licensePlate": "湘I",
+    "idCard": "430900"
+  },
+  {
+    "name": "湖南",
+    "capital": "郴州市",
+    "licensePlate": "湘J",
+    "idCard": "431000"
+  },
+  {
+    "name": "湖南",
+    "capital": "永州市",
+    "licensePlate": "湘K",
+    "idCard": "431100"
+  },
+  {
+    "name": "湖南",
+    "capital": "怀化市",
+    "licensePlate": "湘L",
+    "idCard": "431200"
+  },
+  {
+    "name": "湖南",
+    "capital": "娄底市",
+    "licensePlate": "湘M",
+    "idCard": "431300"
+  },
+  {
+    "name": "湖南",
+    "capital": "湘西土家族苗族自治州",
+    "licensePlate": "湘N",
+    "idCard": "433100"
+  }
+]

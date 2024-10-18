@@ -2,15 +2,8 @@ const router = require('express').Router()
 const prisma = require('../db/db')
 
 router.get('/', async (req, res) => {
-  let data = await prisma.provinces.findMany({where: {}})
-  res.json({
-    success: true,
-    data: data,
-  })
-})
-router.get('/name', async (req, res) => {
   const { name } = req.query; // 从查询参数中获取 name
-  let data = await prisma.provinces.findMany({
+  let data = await prisma.citys.findMany({
     where: {
       name: name // 根据 name 进行过滤
     }
@@ -22,7 +15,7 @@ router.get('/name', async (req, res) => {
 });
 
 router.post('/', async (req, res) => {
-  await prisma.provinces.createMany({
+  await prisma.citys.createMany({
     data: req.body
   })
   res.json({

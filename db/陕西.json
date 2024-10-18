@@ -1,0 +1,62 @@
+[
+  {
+    "name": "陕西",
+    "capital": "西安",
+    "licensePlate": "陕A",
+    "idCard": "610101"
+  },
+  {
+    "name": "陕西",
+    "capital": "铜川",
+    "licensePlate": "陕B",
+    "idCard": "610201"
+  },
+  {
+    "name": "陕西",
+    "capital": "宝鸡",
+    "licensePlate": "陕C",
+    "idCard": "610301"
+  },
+  {
+    "name": "陕西",
+    "capital": "咸阳",
+    "licensePlate": "陕D",
+    "idCard": "610401"
+  },
+  {
+    "name": "陕西",
+    "capital": "渭南",
+    "licensePlate": "陕E",
+    "idCard": "610501"
+  },
+  {
+    "name": "陕西",
+    "capital": "延安",
+    "licensePlate": "陕F",
+    "idCard": "610601"
+  },
+  {
+    "name": "陕西",
+    "capital": "汉中",
+    "licensePlate": "陕G",
+    "idCard": "610701"
+  },
+  {
+    "name": "陕西",
+    "capital": "榆林",
+    "licensePlate": "陕H",
+    "idCard": "610801"
+  },
+  {
+    "name": "陕西",
+    "capital": "安康",
+    "licensePlate": "陕I",
+    "idCard": "610901"
+  },
+  {
+    "name": "陕西",
+    "capital": "商洛",
+    "licensePlate": "陕J",
+    "idCard": "611001"
+  }
+]

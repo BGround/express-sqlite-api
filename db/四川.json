@@ -1,0 +1,128 @@
+[
+  {
+    "name": "四川",
+    "capital": "成都市",
+    "licensePlate": "川A",
+    "idCard": "510100"
+  },
+  {
+    "name": "四川",
+    "capital": "自贡市",
+    "licensePlate": "川B",
+    "idCard": "510300"
+  },
+  {
+    "name": "四川",
+    "capital": "攀枝花市",
+    "licensePlate": "川C",
+    "idCard": "510400"
+  },
+  {
+    "name": "四川",
+    "capital": "泸州市",
+    "licensePlate": "川D",
+    "idCard": "510500"
+  },
+  {
+    "name": "四川",
+    "capital": "德阳市",
+    "licensePlate": "川E",
+    "idCard": "510600"
+  },
+  {
+    "name": "四川",
+    "capital": "绵阳市",
+    "licensePlate": "川F",
+    "idCard": "510700"
+  },
+  {
+    "name": "四川",
+    "capital": "广元市",
+    "licensePlate": "川G",
+    "idCard": "510800"
+  },
+  {
+    "name": "四川",
+    "capital": "遂宁市",
+    "licensePlate": "川H",
+    "idCard": "510900"
+  },
+  {
+    "name": "四川",
+    "capital": "内江市",
+    "licensePlate": "川I",
+    "idCard": "511000"
+  },
+  {
+    "name": "四川",
+    "capital": "乐山市",
+    "licensePlate": "川J",
+    "idCard": "511100"
+  },
+  {
+    "name": "四川",
+    "capital": "南充市",
+    "licensePlate": "川K",
+    "idCard": "511300"
+  },
+  {
+    "name": "四川",
+    "capital": "眉山市",
+    "licensePlate": "川L",
+    "idCard": "511400"
+  },
+  {
+    "name": "四川",
+    "capital": "宜宾市",
+    "licensePlate": "川M",
+    "idCard": "511500"
+  },
+  {
+    "name": "四川",
+    "capital": "广安市",
+    "licensePlate": "川N",
+    "idCard": "511600"
+  },
+  {
+    "name": "四川",
+    "capital": "达州市",
+    "licensePlate": "川O",
+    "idCard": "511700"
+  },
+  {
+    "name": "四川",
+    "capital": "雅安市",
+    "licensePlate": "川P",
+    "idCard": "511800"
+  },
+  {
+    "name": "四川",
+    "capital": "巴中市",
+    "licensePlate": "川Q",
+    "idCard": "511900"
+  },
+  {
+    "name": "四川",
+    "capital": "资阳市",
+    "licensePlate": "川R",
+    "idCard": "512000"
+  },
+  {
+    "name": "四川",
+    "capital": "阿坝藏族羌族自治州",
+    "licensePlate": "川S",
+    "idCard": "513200"
+  },
+  {
+    "name": "四川",
+    "capital": "甘孜藏族自治州",
+    "licensePlate": "川T",
+    "idCard": "513300"
+  },
+  {
+    "name": "四川",
+    "capital": "凉山彝族自治州",
+    "licensePlate": "川U",
+    "idCard": "513400"
+  }
+]

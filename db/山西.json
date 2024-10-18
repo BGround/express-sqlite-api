@@ -1,0 +1,68 @@
+[
+  {
+    "name": "山西",
+    "capital": "太原市",
+    "licensePlate": "晋A",
+    "idCard": "140101"
+  },
+  {
+    "name": "山西",
+    "capital": "大同市",
+    "licensePlate": "晋B",
+    "idCard": "140201"
+  },
+  {
+    "name": "山西",
+    "capital": "阳泉市",
+    "licensePlate": "晋C",
+    "idCard": "140301"
+  },
+  {
+    "name": "山西",
+    "capital": "长治市",
+    "licensePlate": "晋D",
+    "idCard": "140401"
+  },
+  {
+    "name": "山西",
+    "capital": "晋城市",
+    "licensePlate": "晋E",
+    "idCard": "140501"
+  },
+  {
+    "name": "山西",
+    "capital": "朔州市",
+    "licensePlate": "晋F",
+    "idCard": "140601"
+  },
+  {
+    "name": "山西",
+    "capital": "晋中市",
+    "licensePlate": "晋G",
+    "idCard": "140701"
+  },
+  {
+    "name": "山西",
+    "capital": "运城市",
+    "licensePlate": "晋H",
+    "idCard": "140801"
+  },
+  {
+    "name": "山西",
+    "capital": "忻州市",
+    "licensePlate": "晋J",
+    "idCard": "140901"
+  },
+  {
+    "name": "山西",
+    "capital": "临汾市",
+    "licensePlate": "晋K",
+    "idCard": "141001"
+  },
+  {
+    "name": "山西",
+    "capital": "吕梁市",
+    "licensePlate": "晋L",
+    "idCard": "141101"
+  }
+]

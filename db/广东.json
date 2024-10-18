@@ -1,0 +1,128 @@
+[
+  {
+    "name": "广东",
+    "capital": "广州",
+    "licensePlate": "粤A",
+    "idCard": "440100"
+  },
+  {
+    "name": "广东",
+    "capital": "深圳",
+    "licensePlate": "粤B",
+    "idCard": "440300"
+  },
+  {
+    "name": "广东",
+    "capital": "珠海",
+    "licensePlate": "粤C",
+    "idCard": "440400"
+  },
+  {
+    "name": "广东",
+    "capital": "汕头",
+    "licensePlate": "粤D",
+    "idCard": "440500"
+  },
+  {
+    "name": "广东",
+    "capital": "韶关",
+    "licensePlate": "粤E",
+    "idCard": "440200"
+  },
+  {
+    "name": "广东",
+    "capital": "佛山",
+    "licensePlate": "粤F",
+    "idCard": "440600"
+  },
+  {
+    "name": "广东",
+    "capital": "江门",
+    "licensePlate": "粤G",
+    "idCard": "440700"
+  },
+  {
+    "name": "广东",
+    "capital": "湛江",
+    "licensePlate": "粤H",
+    "idCard": "440800"
+  },
+  {
+    "name": "广东",
+    "capital": "茂名",
+    "licensePlate": "粤I",
+    "idCard": "440900"
+  },
+  {
+    "name": "广东",
+    "capital": "肇庆",
+    "licensePlate": "粤J",
+    "idCard": "441200"
+  },
+  {
+    "name": "广东",
+    "capital": "惠州",
+    "licensePlate": "粤K",
+    "idCard": "441300"
+  },
+  {
+    "name": "广东",
+    "capital": "梅州",
+    "licensePlate": "粤L",
+    "idCard": "441400"
+  },
+  {
+    "name": "广东",
+    "capital": "汕尾",
+    "licensePlate": "粤M",
+    "idCard": "441500"
+  },
+  {
+    "name": "广东",
+    "capital": "河源",
+    "licensePlate": "粤N",
+    "idCard": "441600"
+  },
+  {
+    "name": "广东",
+    "capital": "阳江",
+    "licensePlate": "粤O",
+    "idCard": "441700"
+  },
+  {
+    "name": "广东",
+    "capital": "清远",
+    "licensePlate": "粤P",
+    "idCard": "441800"
+  },
+  {
+    "name": "广东",
+    "capital": "东莞",
+    "licensePlate": "粤Q",
+    "idCard": "441900"
+  },
+  {
+    "name": "广东",
+    "capital": "中山",
+    "licensePlate": "粤R",
+    "idCard": "442000"
+  },
+  {
+    "name": "广东",
+    "capital": "潮州",
+    "licensePlate": "粤S",
+    "idCard": "445100"
+  },
+  {
+    "name": "广东",
+    "capital": "揭阳",
+    "licensePlate": "粤T",
+    "idCard": "445200"
+  },
+  {
+    "name": "广东",
+    "capital": "云浮",
+    "licensePlate": "粤U",
+    "idCard": "445300"
+  }
+]

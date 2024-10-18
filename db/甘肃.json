@@ -1,0 +1,86 @@
+[
+  {
+    "name": "甘肃",
+    "capital": "兰州市",
+    "licensePlate": "甘A",
+    "idCard": "620100"
+  },
+  {
+    "name": "甘肃",
+    "capital": "嘉峪关市",
+    "licensePlate": "甘B",
+    "idCard": "620200"
+  },
+  {
+    "name": "甘肃",
+    "capital": "金昌市",
+    "licensePlate": "甘C",
+    "idCard": "620300"
+  },
+  {
+    "name": "甘肃",
+    "capital": "白银市",
+    "licensePlate": "甘D",
+    "idCard": "620400"
+  },
+  {
+    "name": "甘肃",
+    "capital": "天水市",
+    "licensePlate": "甘E",
+    "idCard": "620500"
+  },
+  {
+    "name": "甘肃",
+    "capital": "武威市",
+    "licensePlate": "甘F",
+    "idCard": "620600"
+  },
+  {
+    "name": "甘肃",
+    "capital": "张掖市",
+    "licensePlate": "甘G",
+    "idCard": "620700"
+  },
+  {
+    "name": "甘肃",
+    "capital": "平凉市",
+    "licensePlate": "甘H",
+    "idCard": "620800"
+  },
+  {
+    "name": "甘肃",
+    "capital": "酒泉市",
+    "licensePlate": "甘J",
+    "idCard": "620900"
+  },
+  {
+    "name": "甘肃",
+    "capital": "庆阳市",
+    "licensePlate": "甘K",
+    "idCard": "621000"
+  },
+  {
+    "name": "甘肃",
+    "capital": "定西市",
+    "licensePlate": "甘L",
+    "idCard": "621100"
+  },
+  {
+    "name": "甘肃",
+    "capital": "陇南市",
+    "licensePlate": "甘M",
+    "idCard": "621200"
+  },
+  {
+    "name": "甘肃",
+    "capital": "临夏回族自治州",
+    "licensePlate": "甘N",
+    "idCard": "622900"
+  },
+  {
+    "name": "甘肃",
+    "capital": "甘南藏族自治州",
+    "licensePlate": "甘P",
+    "idCard": "623000"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "内蒙古",
+    "capital": "呼和浩特市",
+    "licensePlate": "蒙A",
+    "idCard": "150101"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "包头市",
+    "licensePlate": "蒙B",
+    "idCard": "150201"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "乌海市",
+    "licensePlate": "蒙C",
+    "idCard": "150301"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "赤峰市",
+    "licensePlate": "蒙D",
+    "idCard": "150401"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "通辽市",
+    "licensePlate": "蒙E",
+    "idCard": "150501"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "鄂尔多斯市",
+    "licensePlate": "蒙F",
+    "idCard": "150601"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "呼伦贝尔市",
+    "licensePlate": "蒙G",
+    "idCard": "150701"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "巴彦淖尔市",
+    "licensePlate": "蒙H",
+    "idCard": "150801"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "乌兰察布市",
+    "licensePlate": "蒙J",
+    "idCard": "150901"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "兴安盟",
+    "licensePlate": "蒙K",
+    "idCard": "152201"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "锡林郭勒盟",
+    "licensePlate": "蒙L",
+    "idCard": "152501"
+  },
+  {
+    "name": "内蒙古",
+    "capital": "阿拉善盟",
+    "licensePlate": "蒙M",
+    "idCard": "152901"
+  }
+]

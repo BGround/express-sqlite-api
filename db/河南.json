@@ -1,0 +1,110 @@
+[
+  {
+    "name": "河南",
+    "capital": "郑州市",
+    "licensePlate": "豫A",
+    "idCard": "410101"
+  },
+  {
+    "name": "河南",
+    "capital": "洛阳市",
+    "licensePlate": "豫B",
+    "idCard": "410201"
+  },
+  {
+    "name": "河南",
+    "capital": "开封市",
+    "licensePlate": "豫C",
+    "idCard": "410301"
+  },
+  {
+    "name": "河南",
+    "capital": "平顶山市",
+    "licensePlate": "豫D",
+    "idCard": "410401"
+  },
+  {
+    "name": "河南",
+    "capital": "安阳市",
+    "licensePlate": "豫E",
+    "idCard": "410501"
+  },
+  {
+    "name": "河南",
+    "capital": "鹤壁市",
+    "licensePlate": "豫F",
+    "idCard": "410601"
+  },
+  {
+    "name": "河南",
+    "capital": "新乡市",
+    "licensePlate": "豫G",
+    "idCard": "410701"
+  },
+  {
+    "name": "河南",
+    "capital": "焦作市",
+    "licensePlate": "豫H",
+    "idCard": "410801"
+  },
+  {
+    "name": "河南",
+    "capital": "濮阳市",
+    "licensePlate": "豫I",
+    "idCard": "410901"
+  },
+  {
+    "name": "河南",
+    "capital": "许昌市",
+    "licensePlate": "豫J",
+    "idCard": "411001"
+  },
+  {
+    "name": "河南",
+    "capital": "漯河市",
+    "licensePlate": "豫K",
+    "idCard": "411101"
+  },
+  {
+    "name": "河南",
+    "capital": "三门峡市",
+    "licensePlate": "豫L",
+    "idCard": "411201"
+  },
+  {
+    "name": "河南",
+    "capital": "南阳市",
+    "licensePlate": "豫M",
+    "idCard": "411301"
+  },
+  {
+    "name": "河南",
+    "capital": "商丘市",
+    "licensePlate": "豫N",
+    "idCard": "411401"
+  },
+  {
+    "name": "河南",
+    "capital": "信阳市",
+    "licensePlate": "豫O",
+    "idCard": "411501"
+  },
+  {
+    "name": "河南",
+    "capital": "周口市",
+    "licensePlate": "豫P",
+    "idCard": "411601"
+  },
+  {
+    "name": "河南",
+    "capital": "驻马店市",
+    "licensePlate": "豫Q",
+    "idCard": "411701"
+  },
+  {
+    "name": "河南",
+    "capital": "济源市",
+    "licensePlate": "豫R",
+    "idCard": "419001"
+  }
+]

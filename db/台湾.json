@@ -1,0 +1,122 @@
+[
+  {
+    "name": "台湾",
+    "capital": "台北市",
+    "licensePlate": "台A",
+    "idCard": "710101"
+  },
+  {
+    "name": "台湾",
+    "capital": "新北市",
+    "licensePlate": "台B",
+    "idCard": "710102"
+  },
+  {
+    "name": "台湾",
+    "capital": "桃园市",
+    "licensePlate": "台C",
+    "idCard": "710103"
+  },
+  {
+    "name": "台湾",
+    "capital": "台中市",
+    "licensePlate": "台D",
+    "idCard": "710104"
+  },
+  {
+    "name": "台湾",
+    "capital": "台南市",
+    "licensePlate": "台E",
+    "idCard": "710105"
+  },
+  {
+    "name": "台湾",
+    "capital": "高雄市",
+    "licensePlate": "台F",
+    "idCard": "710106"
+  },
+  {
+    "name": "台湾",
+    "capital": "基隆市",
+    "licensePlate": "台G",
+    "idCard": "710107"
+  },
+  {
+    "name": "台湾",
+    "capital": "新竹市",
+    "licensePlate": "台H",
+    "idCard": "710108"
+  },
+  {
+    "name": "台湾",
+    "capital": "嘉义市",
+    "licensePlate": "台I",
+    "idCard": "710109"
+  },
+  {
+    "name": "台湾",
+    "capital": "宜兰县",
+    "licensePlate": "台J",
+    "idCard": "712101"
+  },
+  {
+    "name": "台湾",
+    "capital": "新竹县",
+    "licensePlate": "台K",
+    "idCard": "712102"
+  },
+  {
+    "name": "台湾",
+    "capital": "苗栗县",
+    "licensePlate": "台L",
+    "idCard": "712103"
+  },
+  {
+    "name": "台湾",
+    "capital": "彰化县",
+    "licensePlate": "台M",
+    "idCard": "712104"
+  },
+  {
+    "name": "台湾",
+    "capital": "南投县",
+    "licensePlate": "台N",
+    "idCard": "712105"
+  },
+  {
+    "name": "台湾",
+    "capital": "云林县",
+    "licensePlate": "台O",
+    "idCard": "712106"
+  },
+  {
+    "name": "台湾",
+    "capital": "嘉义县",
+    "licensePlate": "台P",
+    "idCard": "712107"
+  },
+  {
+    "name": "台湾",
+    "capital": "屏东县",
+    "licensePlate": "台Q",
+    "idCard": "712108"
+  },
+  {
+    "name": "台湾",
+    "capital": "台东县",
+    "licensePlate": "台R",
+    "idCard": "712109"
+  },
+  {
+    "name": "台湾",
+    "capital": "花莲县",
+    "licensePlate": "台S",
+    "idCard": "712110"
+  },
+  {
+    "name": "台湾",
+    "capital": "澎湖县",
+    "licensePlate": "台T",
+    "idCard": "712111"
+  }
+]

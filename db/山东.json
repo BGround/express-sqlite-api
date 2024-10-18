@@ -1,0 +1,98 @@
+[
+  {
+    "name": "山东",
+    "capital": "济南市",
+    "licensePlate": "鲁A",
+    "idCard": "370101"
+  },
+  {
+    "name": "山东",
+    "capital": "青岛市",
+    "licensePlate": "鲁B",
+    "idCard": "370201"
+  },
+  {
+    "name": "山东",
+    "capital": "淄博市",
+    "licensePlate": "鲁C",
+    "idCard": "370301"
+  },
+  {
+    "name": "山东",
+    "capital": "枣庄市",
+    "licensePlate": "鲁D",
+    "idCard": "370400"
+  },
+  {
+    "name": "山东",
+    "capital": "东营市",
+    "licensePlate": "鲁E",
+    "idCard": "370500"
+  },
+  {
+    "name": "山东",
+    "capital": "烟台市",
+    "licensePlate": "鲁F",
+    "idCard": "370600"
+  },
+  {
+    "name": "山东",
+    "capital": "潍坊市",
+    "licensePlate": "鲁G",
+    "idCard": "370700"
+  },
+  {
+    "name": "山东",
+    "capital": "济宁市",
+    "licensePlate": "鲁H",
+    "idCard": "370800"
+  },
+  {
+    "name": "山东",
+    "capital": "泰安市",
+    "licensePlate": "鲁I",
+    "idCard": "370900"
+  },
+  {
+    "name": "山东",
+    "capital": "威海市",
+    "licensePlate": "鲁J",
+    "idCard": "371000"
+  },
+  {
+    "name": "山东",
+    "capital": "日照市",
+    "licensePlate": "鲁K",
+    "idCard": "371100"
+  },
+  {
+    "name": "山东",
+    "capital": "临沂市",
+    "licensePlate": "鲁L",
+    "idCard": "371200"
+  },
+  {
+    "name": "山东",
+    "capital": "德州市",
+    "licensePlate": "鲁M",
+    "idCard": "371300"
+  },
+  {
+    "name": "山东",
+    "capital": "聊城市",
+    "licensePlate": "鲁N",
+    "idCard": "371400"
+  },
+  {
+    "name": "山东",
+    "capital": "滨州市",
+    "licensePlate": "鲁O",
+    "idCard": "371500"
+  },
+  {
+    "name": "山东",
+    "capital": "菏泽市",
+    "licensePlate": "鲁P",
+    "idCard": "371600"
+  }
+]

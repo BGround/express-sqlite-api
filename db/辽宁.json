@@ -1,0 +1,86 @@
+[
+  {
+    "name": "辽宁",
+    "capital": "沈阳市",
+    "licensePlate": "辽A",
+    "idCard": "210101"
+  },
+  {
+    "name": "辽宁",
+    "capital": "大连市",
+    "licensePlate": "辽B",
+    "idCard": "210201"
+  },
+  {
+    "name": "辽宁",
+    "capital": "鞍山市",
+    "licensePlate": "辽C",
+    "idCard": "210301"
+  },
+  {
+    "name": "辽宁",
+    "capital": "抚顺市",
+    "licensePlate": "辽D",
+    "idCard": "210401"
+  },
+  {
+    "name": "辽宁",
+    "capital": "本溪市",
+    "licensePlate": "辽E",
+    "idCard": "210501"
+  },
+  {
+    "name": "辽宁",
+    "capital": "丹东市",
+    "licensePlate": "辽F",
+    "idCard": "210601"
+  },
+  {
+    "name": "辽宁",
+    "capital": "锦州市",
+    "licensePlate": "辽G",
+    "idCard": "210701"
+  },
+  {
+    "name": "辽宁",
+    "capital": "营口市",
+    "licensePlate": "辽H",
+    "idCard": "210801"
+  },
+  {
+    "name": "辽宁",
+    "capital": "阜新市",
+    "licensePlate": "辽J",
+    "idCard": "210901"
+  },
+  {
+    "name": "辽宁",
+    "capital": "辽阳市",
+    "licensePlate": "辽K",
+    "idCard": "211001"
+  },
+  {
+    "name": "辽宁",
+    "capital": "盘锦市",
+    "licensePlate": "辽L",
+    "idCard": "211101"
+  },
+  {
+    "name": "辽宁",
+    "capital": "铁岭市",
+    "licensePlate": "辽M",
+    "idCard": "211201"
+  },
+  {
+    "name": "辽宁",
+    "capital": "朝阳市",
+    "licensePlate": "辽N",
+    "idCard": "211301"
+  },
+  {
+    "name": "辽宁",
+    "capital": "葫芦岛市",
+    "licensePlate": "辽P",
+    "idCard": "211401"
+  }
+]

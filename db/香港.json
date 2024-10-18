@@ -1,0 +1,110 @@
+[
+  {
+    "name": "香港",
+    "capital": "中西区",
+    "licensePlate": "HK1",
+    "idCard": "810101"
+  },
+  {
+    "name": "香港",
+    "capital": "湾仔区",
+    "licensePlate": "HK2",
+    "idCard": "810102"
+  },
+  {
+    "name": "香港",
+    "capital": "东区",
+    "licensePlate": "HK3",
+    "idCard": "810103"
+  },
+  {
+    "name": "香港",
+    "capital": "南区",
+    "licensePlate": "HK4",
+    "idCard": "810104"
+  },
+  {
+    "name": "香港",
+    "capital": "九龙城区",
+    "licensePlate": "HK5",
+    "idCard": "810105"
+  },
+  {
+    "name": "香港",
+    "capital": "油尖旺区",
+    "licensePlate": "HK6",
+    "idCard": "810106"
+  },
+  {
+    "name": "香港",
+    "capital": "深水埗区",
+    "licensePlate": "HK7",
+    "idCard": "810107"
+  },
+  {
+    "name": "香港",
+    "capital": "黄大仙区",
+    "licensePlate": "HK8",
+    "idCard": "810108"
+  },
+  {
+    "name": "香港",
+    "capital": "观塘区",
+    "licensePlate": "HK9",
+    "idCard": "810109"
+  },
+  {
+    "name": "香港",
+    "capital": "荃湾区",
+    "licensePlate": "HK10",
+    "idCard": "810110"
+  },
+  {
+    "name": "香港",
+    "capital": "屯门区",
+    "licensePlate": "HK11",
+    "idCard": "810111"
+  },
+  {
+    "name": "香港",
+    "capital": "元朗区",
+    "licensePlate": "HK12",
+    "idCard": "810112"
+  },
+  {
+    "name": "香港",
+    "capital": "北区",
+    "licensePlate": "HK13",
+    "idCard": "810113"
+  },
+  {
+    "name": "香港",
+    "capital": "大埔区",
+    "licensePlate": "HK14",
+    "idCard": "810114"
+  },
+  {
+    "name": "香港",
+    "capital": "西贡区",
+    "licensePlate": "HK15",
+    "idCard": "810115"
+  },
+  {
+    "name": "香港",
+    "capital": "沙田区",
+    "licensePlate": "HK16",
+    "idCard": "810116"
+  },
+  {
+    "name": "香港",
+    "capital": "葵青区",
+    "licensePlate": "HK17",
+    "idCard": "810117"
+  },
+  {
+    "name": "香港",
+    "capital": "离岛区",
+    "licensePlate": "HK18",
+    "idCard": "810118"
+  }
+]

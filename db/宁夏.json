@@ -1,0 +1,32 @@
+[
+  {
+    "name": "宁夏",
+    "capital": "银川市",
+    "licensePlate": "宁A",
+    "idCard": "640100"
+  },
+  {
+    "name": "宁夏",
+    "capital": "石嘴山市",
+    "licensePlate": "宁B",
+    "idCard": "640200"
+  },
+  {
+    "name": "宁夏",
+    "capital": "吴忠市",
+    "licensePlate": "宁C",
+    "idCard": "640300"
+  },
+  {
+    "name": "宁夏",
+    "capital": "固原市",
+    "licensePlate": "宁D",
+    "idCard": "640400"
+  },
+  {
+    "name": "宁夏",
+    "capital": "中卫市",
+    "licensePlate": "宁E",
+    "idCard": "640500"
+  }
+]

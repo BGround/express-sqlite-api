@@ -1,0 +1,86 @@
+[
+  {
+    "name": "上海",
+    "capital": "上海市",
+    "licensePlate": "沪A",
+    "idCard": "310100"
+  },
+  {
+    "name": "上海",
+    "capital": "浦东新区",
+    "licensePlate": "沪B",
+    "idCard": "310200"
+  },
+  {
+    "name": "上海",
+    "capital": "徐汇区",
+    "licensePlate": "沪C",
+    "idCard": "310300"
+  },
+  {
+    "name": "上海",
+    "capital": "长宁区",
+    "licensePlate": "沪D",
+    "idCard": "310400"
+  },
+  {
+    "name": "上海",
+    "capital": "静安区",
+    "licensePlate": "沪E",
+    "idCard": "310500"
+  },
+  {
+    "name": "上海",
+    "capital": "普陀区",
+    "licensePlate": "沪F",
+    "idCard": "310600"
+  },
+  {
+    "name": "上海",
+    "capital": "虹口区",
+    "licensePlate": "沪G",
+    "idCard": "310700"
+  },
+  {
+    "name": "上海",
+    "capital": "杨浦区",
+    "licensePlate": "沪H",
+    "idCard": "310800"
+  },
+  {
+    "name": "上海",
+    "capital": "闵行区",
+    "licensePlate": "沪J",
+    "idCard": "310900"
+  },
+  {
+    "name": "上海",
+    "capital": "宝山区",
+    "licensePlate": "沪K",
+    "idCard": "311000"
+  },
+  {
+    "name": "上海",
+    "capital": "嘉定区",
+    "licensePlate": "沪L",
+    "idCard": "311100"
+  },
+  {
+    "name": "上海",
+    "capital": "浦东新区",
+    "licensePlate": "沪M",
+    "idCard": "311200"
+  },
+  {
+    "name": "上海",
+    "capital": "奉贤区",
+    "licensePlate": "沪N",
+    "idCard": "311300"
+  },
+  {
+    "name": "上海",
+    "capital": "崇明区",
+    "licensePlate": "沪P",
+    "idCard": "311400"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "河北",
+    "capital": "石家庄市",
+    "licensePlate": "冀A",
+    "idCard": "130101"
+  },
+  {
+    "name": "河北",
+    "capital": "唐山市",
+    "licensePlate": "冀B",
+    "idCard": "130201"
+  },
+  {
+    "name": "河北",
+    "capital": "秦皇岛市",
+    "licensePlate": "冀C",
+    "idCard": "130301"
+  },
+  {
+    "name": "河北",
+    "capital": "邯郸市",
+    "licensePlate": "冀D",
+    "idCard": "130401"
+  },
+  {
+    "name": "河北",
+    "capital": "邢台市",
+    "licensePlate": "冀E",
+    "idCard": "130501"
+  },
+  {
+    "name": "河北",
+    "capital": "保定市",
+    "licensePlate": "冀F",
+    "idCard": "130601"
+  },
+  {
+    "name": "河北",
+    "capital": "张家口市",
+    "licensePlate": "冀G",
+    "idCard": "130701"
+  },
+  {
+    "name": "河北",
+    "capital": "承德市",
+    "licensePlate": "冀H",
+    "idCard": "130801"
+  },
+  {
+    "name": "河北",
+    "capital": "沧州市",
+    "licensePlate": "冀I",
+    "idCard": "130901"
+  },
+  {
+    "name": "河北",
+    "capital": "廊坊市",
+    "licensePlate": "冀J",
+    "idCard": "131001"
+  },
+  {
+    "name": "河北",
+    "capital": "衡水市",
+    "licensePlate": "冀K",
+    "idCard": "131101"
+  }
+]

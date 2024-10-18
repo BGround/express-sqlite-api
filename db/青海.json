@@ -1,0 +1,50 @@
+[
+  {
+    "name": "青海",
+    "capital": "西宁市",
+    "licensePlate": "青A",
+    "idCard": "630101"
+  },
+  {
+    "name": "青海",
+    "capital": "海东市",
+    "licensePlate": "青B",
+    "idCard": "630102"
+  },
+  {
+    "name": "青海",
+    "capital": "海北藏族自治州",
+    "licensePlate": "青C",
+    "idCard": "630103"
+  },
+  {
+    "name": "青海",
+    "capital": "黄南藏族自治州",
+    "licensePlate": "青D",
+    "idCard": "630104"
+  },
+  {
+    "name": "青海",
+    "capital": "海南藏族自治州",
+    "licensePlate": "青E",
+    "idCard": "630105"
+  },
+  {
+    "name": "青海",
+    "capital": "果洛藏族自治州",
+    "licensePlate": "青F",
+    "idCard": "630106"
+  },
+  {
+    "name": "青海",
+    "capital": "玉树藏族自治州",
+    "licensePlate": "青G",
+    "idCard": "630107"
+  },
+  {
+    "name": "青海",
+    "capital": "海西蒙古族藏族自治州",
+    "licensePlate": "青H",
+    "idCard": "630108"
+  }
+]

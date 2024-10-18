@@ -1,0 +1,62 @@
+[
+  {
+    "name": "吉林",
+    "capital": "长春市",
+    "licensePlate": "吉A",
+    "idCard": "220100"
+  },
+  {
+    "name": "吉林",
+    "capital": "吉林市",
+    "licensePlate": "吉B",
+    "idCard": "220200"
+  },
+  {
+    "name": "吉林",
+    "capital": "四平市",
+    "licensePlate": "吉C",
+    "idCard": "220300"
+  },
+  {
+    "name": "吉林",
+    "capital": "辽源市",
+    "licensePlate": "吉D",
+    "idCard": "220400"
+  },
+  {
+    "name": "吉林",
+    "capital": "通化市",
+    "licensePlate": "吉E",
+    "idCard": "220500"
+  },
+  {
+    "name": "吉林",
+    "capital": "白山",
+    "licensePlate": "吉F",
+    "idCard": "220600"
+  },
+  {
+    "name": "吉林",
+    "capital": "松原市",
+    "licensePlate": "吉G",
+    "idCard": "220700"
+  },
+  {
+    "name": "吉林",
+    "capital": "白城市",
+    "licensePlate": "吉H",
+    "idCard": "220800"
+  },
+  {
+    "name": "吉林",
+    "capital": "延边州",
+    "licensePlate": "吉J",
+    "idCard": "222400"
+  },
+  {
+    "name": "吉林",
+    "capital": "长白山",
+    "licensePlate": "吉K",
+    "idCard": "222500"
+  }
+]

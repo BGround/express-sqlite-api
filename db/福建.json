@@ -1,0 +1,56 @@
+[
+  {
+    "name": "福建",
+    "capital": "福州市",
+    "licensePlate": "闽A",
+    "idCard": "350100"
+  },
+  {
+    "name": "福建",
+    "capital": "厦门市",
+    "licensePlate": "闽B",
+    "idCard": "350200"
+  },
+  {
+    "name": "福建",
+    "capital": "莆田市",
+    "licensePlate": "闽C",
+    "idCard": "350300"
+  },
+  {
+    "name": "福建",
+    "capital": "三明市",
+    "licensePlate": "闽D",
+    "idCard": "350400"
+  },
+  {
+    "name": "福建",
+    "capital": "泉州市",
+    "licensePlate": "闽E",
+    "idCard": "350500"
+  },
+  {
+    "name": "福建",
+    "capital": "漳州市",
+    "licensePlate": "闽F",
+    "idCard": "350600"
+  },
+  {
+    "name": "福建",
+    "capital": "南平市",
+    "licensePlate": "闽G",
+    "idCard": "350700"
+  },
+  {
+    "name": "福建",
+    "capital": "龙岩市",
+    "licensePlate": "闽H",
+    "idCard": "350800"
+  },
+  {
+    "name": "福建",
+    "capital": "宁德市",
+    "licensePlate": "闽I",
+    "idCard": "350900"
+  }
+]

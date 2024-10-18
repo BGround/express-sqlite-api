@@ -1,0 +1,62 @@
+[
+  {
+    "name": "黑龙江",
+    "capital": "哈尔滨市",
+    "licensePlate": "黑A",
+    "idCard": "230101"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "齐齐哈尔市",
+    "licensePlate": "黑B",
+    "idCard": "230201"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "牡丹江市",
+    "licensePlate": "黑C",
+    "idCard": "230301"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "佳木斯市",
+    "licensePlate": "黑D",
+    "idCard": "230401"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "大庆市",
+    "licensePlate": "黑E",
+    "idCard": "230501"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "伊春市",
+    "licensePlate": "黑F",
+    "idCard": "230601"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "七台河市",
+    "licensePlate": "黑G",
+    "idCard": "230701"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "黑河市",
+    "licensePlate": "黑H",
+    "idCard": "230801"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "绥化市",
+    "licensePlate": "黑J",
+    "idCard": "230901"
+  },
+  {
+    "name": "黑龙江",
+    "capital": "大兴安岭地区",
+    "licensePlate": "黑K",
+    "idCard": "232701"
+  }
+]

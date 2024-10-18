@@ -1,0 +1,80 @@
+[
+  {
+    "name": "江苏",
+    "capital": "南京市",
+    "licensePlate": "苏A",
+    "idCard": "320100"
+  },
+  {
+    "name": "江苏",
+    "capital": "无锡市",
+    "licensePlate": "苏B",
+    "idCard": "320200"
+  },
+  {
+    "name": "江苏",
+    "capital": "徐州市",
+    "licensePlate": "苏C",
+    "idCard": "320300"
+  },
+  {
+    "name": "江苏",
+    "capital": "常州市",
+    "licensePlate": "苏D",
+    "idCard": "320400"
+  },
+  {
+    "name": "江苏",
+    "capital": "苏州市",
+    "licensePlate": "苏E",
+    "idCard": "320500"
+  },
+  {
+    "name": "江苏",
+    "capital": "南通市",
+    "licensePlate": "苏F",
+    "idCard": "320600"
+  },
+  {
+    "name": "江苏",
+    "capital": "连云港市",
+    "licensePlate": "苏G",
+    "idCard": "320700"
+  },
+  {
+    "name": "江苏",
+    "capital": "淮安区",
+    "licensePlate": "苏H",
+    "idCard": "320800"
+  },
+  {
+    "name": "江苏",
+    "capital": "盐城市",
+    "licensePlate": "苏J",
+    "idCard": "320900"
+  },
+  {
+    "name": "江苏",
+    "capital": "扬州市",
+    "licensePlate": "苏K",
+    "idCard": "321000"
+  },
+  {
+    "name": "江苏",
+    "capital": "镇江市",
+    "licensePlate": "苏L",
+    "idCard": "321100"
+  },
+  {
+    "name": "江苏",
+    "capital": "泰州市",
+    "licensePlate": "苏M",
+    "idCard": "321200"
+  },
+  {
+    "name": "江苏",
+    "capital": "宿迁市",
+    "licensePlate": "苏N",
+    "idCard": "321300"
+  }
+]

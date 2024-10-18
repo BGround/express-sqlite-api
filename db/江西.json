@@ -1,0 +1,68 @@
+[
+  {
+    "name": "江西",
+    "capital": "南昌市",
+    "licensePlate": "赣A",
+    "idCard": "360100"
+  },
+  {
+    "name": "江西",
+    "capital": "景德镇市",
+    "licensePlate": "赣B",
+    "idCard": "360200"
+  },
+  {
+    "name": "江西",
+    "capital": "萍乡市",
+    "licensePlate": "赣C",
+    "idCard": "360300"
+  },
+  {
+    "name": "江西",
+    "capital": "九江市",
+    "licensePlate": "赣D",
+    "idCard": "360400"
+  },
+  {
+    "name": "江西",
+    "capital": "新余市",
+    "licensePlate": "赣E",
+    "idCard": "360500"
+  },
+  {
+    "name": "江西",
+    "capital": "鹰潭市",
+    "licensePlate": "赣F",
+    "idCard": "360600"
+  },
+  {
+    "name": "江西",
+    "capital": "赣州市",
+    "licensePlate": "赣G",
+    "idCard": "360700"
+  },
+  {
+    "name": "江西",
+    "capital": "吉安市",
+    "licensePlate": "赣H",
+    "idCard": "360800"
+  },
+  {
+    "name": "江西",
+    "capital": "宜春市",
+    "licensePlate": "赣J",
+    "idCard": "360900"
+  },
+  {
+    "name": "江西",
+    "capital": "抚州市",
+    "licensePlate": "赣K",
+    "idCard": "361000"
+  },
+  {
+    "name": "江西",
+    "capital": "上饶市",
+    "licensePlate": "赣L",
+    "idCard": "361100"
+  }
+]

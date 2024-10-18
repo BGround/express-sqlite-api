@@ -1,0 +1,86 @@
+[
+  {
+    "name": "广西",
+    "capital": "南宁市",
+    "licensePlate": "桂A",
+    "idCard": "450101"
+  },
+  {
+    "name": "广西",
+    "capital": "柳州市",
+    "licensePlate": "桂B",
+    "idCard": "450201"
+  },
+  {
+    "name": "广西",
+    "capital": "桂林市",
+    "licensePlate": "桂C",
+    "idCard": "450301"
+  },
+  {
+    "name": "广西",
+    "capital": "梧州市",
+    "licensePlate": "桂D",
+    "idCard": "450401"
+  },
+  {
+    "name": "广西",
+    "capital": "北海市",
+    "licensePlate": "桂E",
+    "idCard": "450501"
+  },
+  {
+    "name": "广西",
+    "capital": "防城港市",
+    "licensePlate": "桂F",
+    "idCard": "450601"
+  },
+  {
+    "name": "广西",
+    "capital": "钦州市",
+    "licensePlate": "桂G",
+    "idCard": "450701"
+  },
+  {
+    "name": "广西",
+    "capital": "贵港市",
+    "licensePlate": "桂H",
+    "idCard": "450801"
+  },
+  {
+    "name": "广西",
+    "capital": "玉林市",
+    "licensePlate": "桂I",
+    "idCard": "450901"
+  },
+  {
+    "name": "广西",
+    "capital": "百色市",
+    "licensePlate": "桂J",
+    "idCard": "451001"
+  },
+  {
+    "name": "广西",
+    "capital": "贺州市",
+    "licensePlate": "桂K",
+    "idCard": "451101"
+  },
+  {
+    "name": "广西",
+    "capital": "河池市",
+    "licensePlate": "桂L",
+    "idCard": "451201"
+  },
+  {
+    "name": "广西",
+    "capital": "来宾市",
+    "licensePlate": "桂M",
+    "idCard": "451301"
+  },
+  {
+    "name": "广西",
+    "capital": "崇左市",
+    "licensePlate": "桂N",
+    "idCard": "451401"
+  }
+]

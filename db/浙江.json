@@ -1,0 +1,68 @@
+[
+  {
+    "name": "浙江",
+    "capital": "杭州市",
+    "licensePlate": "浙A",
+    "idCard": "330100"
+  },
+  {
+    "name": "浙江",
+    "capital": "宁波市",
+    "licensePlate": "浙B",
+    "idCard": "330200"
+  },
+  {
+    "name": "浙江",
+    "capital": "温州市",
+    "licensePlate": "浙C",
+    "idCard": "330300"
+  },
+  {
+    "name": "浙江",
+    "capital": "嘉兴市",
+    "licensePlate": "浙D",
+    "idCard": "330400"
+  },
+  {
+    "name": "浙江",
+    "capital": "湖州市",
+    "licensePlate": "浙E",
+    "idCard": "330500"
+  },
+  {
+    "name": "浙江",
+    "capital": "绍兴市",
+    "licensePlate": "浙F",
+    "idCard": "330600"
+  },
+  {
+    "name": "浙江",
+    "capital": "金华市",
+    "licensePlate": "浙G",
+    "idCard": "330700"
+  },
+  {
+    "name": "浙江",
+    "capital": "衢州市",
+    "licensePlate": "浙H",
+    "idCard": "330800"
+  },
+  {
+    "name": "浙江",
+    "capital": "舟山市",
+    "licensePlate": "浙J",
+    "idCard": "330900"
+  },
+  {
+    "name": "浙江",
+    "capital": "台州市",
+    "licensePlate": "浙K",
+    "idCard": "331000"
+  },
+  {
+    "name": "浙江",
+    "capital": "丽水市",
+    "licensePlate": "浙L",
+    "idCard": "331100"
+  }
+]

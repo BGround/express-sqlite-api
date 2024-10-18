@@ -1,0 +1,92 @@
+[
+  {
+    "name": "云南",
+    "capital": "昆明市",
+    "licensePlate": "云A",
+    "idCard": "530100"
+  },
+  {
+    "name": "云南",
+    "capital": "曲靖市",
+    "licensePlate": "云B",
+    "idCard": "530300"
+  },
+  {
+    "name": "云南",
+    "capital": "玉溪市",
+    "licensePlate": "云C",
+    "idCard": "530400"
+  },
+  {
+    "name": "云南",
+    "capital": "保山市",
+    "licensePlate": "云D",
+    "idCard": "530500"
+  },
+  {
+    "name": "云南",
+    "capital": "昭通市",
+    "licensePlate": "云E",
+    "idCard": "530600"
+  },
+  {
+    "name": "云南",
+    "capital": "丽江市",
+    "licensePlate": "云F",
+    "idCard": "530700"
+  },
+  {
+    "name": "云南",
+    "capital": "普洱市",
+    "licensePlate": "云G",
+    "idCard": "530800"
+  },
+  {
+    "name": "云南",
+    "capital": "临沧市",
+    "licensePlate": "云H",
+    "idCard": "530900"
+  },
+  {
+    "name": "云南",
+    "capital": "德宏傣族景颇族自治州",
+    "licensePlate": "云J",
+    "idCard": "533100"
+  },
+  {
+    "name": "云南",
+    "capital": "怒江傈僳族自治州",
+    "licensePlate": "云K",
+    "idCard": "533300"
+  },
+  {
+    "name": "云南",
+    "capital": "迪庆藏族自治州",
+    "licensePlate": "云L",
+    "idCard": "533400"
+  },
+  {
+    "name": "云南",
+    "capital": "大理白族自治州",
+    "licensePlate": "云M",
+    "idCard": "532900"
+  },
+  {
+    "name": "云南",
+    "capital": "楚雄彝族自治州",
+    "licensePlate": "云N",
+    "idCard": "532300"
+  },
+  {
+    "name": "云南",
+    "capital": "红河哈尼族彝族自治州",
+    "licensePlate": "云O",
+    "idCard": "532500"
+  },
+  {
+    "name": "云南",
+    "capital": "文山壮族苗族自治州",
+    "licensePlate": "云P",
+    "idCard": "532600"
+  }
+]

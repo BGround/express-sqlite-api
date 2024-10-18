@@ -1,11 +1,11 @@
 const express = require('express')
 const app = express()
 const port = 3000
-const prisma = require('./db/db')
+// const prisma = require('./db/db')
 
 app.get('/', async (req, res) => {
-  let data = await prisma.provinces.findMany({where: {}})
-  res.send(data)
+  // let data = await prisma.provinces.findMany({where: {}})
+  res.send("Express region")
 })
 
 app.listen(port, () => {
@@ -18,3 +18,4 @@ app.use(express.urlencoded({ extends: false })) // url编码格式
 
 // 路由拆分，把功能拆分到不同的文件中
 app.use('/api/provice', require('./routes/provice'))
+app.use('/api/city', require('./routes/city'))

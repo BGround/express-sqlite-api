@@ -1,0 +1,98 @@
+[
+ {
+  "name": "天津",
+  "capital": "和平区",
+  "licensePlate": "津A",
+  "idCard": "120101"
+  },
+  {
+  "name": "天津",
+  "capital": "河东区",
+  "licensePlate": "津B",
+  "idCard": "120102"
+  },
+  {
+  "name": "天津",
+  "capital": "河西区",
+  "licensePlate": "津B",
+  "idCard": "120103"
+  },
+  {
+  "name": "天津",
+  "capital": "东丽区",
+  "licensePlate": "津C",
+  "idCard": "120110"
+  },
+  {
+  "name": "天津",
+  "capital": "西青区",
+  "licensePlate": "津C",
+  "idCard": "120111"
+  },
+  {
+  "name": "天津",
+  "capital": "津南区",
+  "licensePlate": "津C",
+  "idCard": "120112"
+  },
+  {
+  "name": "天津",
+  "capital": "北辰区",
+  "licensePlate": "津C",
+  "idCard": "120113"
+  },
+  {
+  "name": "天津",
+  "capital": "宝坻区",
+  "licensePlate": "津C",
+  "idCard": "120115"
+  },
+  {
+  "name": "天津",
+  "capital": "南开区",
+  "licensePlate": "津E",
+  "idCard": "120104"
+  },
+  {
+  "name": "天津",
+  "capital": "河北区",
+  "licensePlate": "津E",
+  "idCard": "120105"
+  },
+  {
+  "name": "天津",
+  "capital": "红桥区",
+  "licensePlate": "津E",
+  "idCard": "120106"
+  },
+  {
+  "name": "天津",
+  "capital": "武清区",
+  "licensePlate": "津R",
+  "idCard": "120114"
+  },
+  {
+  "name": "天津",
+  "capital": "滨海新区",
+  "licensePlate": "津H",
+  "idCard": "120116"
+  },
+  {
+  "name": "天津",
+  "capital": "静海区",
+  "licensePlate": "津R",
+  "idCard": "120118"
+  },
+  {
+  "name": "天津",
+  "capital": "蓟州区",
+  "licensePlate": "津K",
+  "idCard": "120119"
+  },
+  {
+  "name": "天津",
+  "capital": "宁河区",
+  "licensePlate": "津Q",
+  "idCard": "120117"
+  }
+]

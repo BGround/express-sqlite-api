@@ -1,0 +1,56 @@
+[
+  {
+    "name": "贵州",
+    "capital": "贵阳市",
+    "licensePlate": "贵A",
+    "idCard": "520100"
+  },
+  {
+    "name": "贵州",
+    "capital": "六盘水市",
+    "licensePlate": "贵B",
+    "idCard": "520200"
+  },
+  {
+    "name": "贵州",
+    "capital": "遵义市",
+    "licensePlate": "贵C",
+    "idCard": "520300"
+  },
+  {
+    "name": "贵州",
+    "capital": "安顺市",
+    "licensePlate": "贵D",
+    "idCard": "520400"
+  },
+  {
+    "name": "贵州",
+    "capital": "毕节市",
+    "licensePlate": "贵E",
+    "idCard": "520500"
+  },
+  {
+    "name": "贵州",
+    "capital": "铜仁市",
+    "licensePlate": "贵F",
+    "idCard": "520600"
+  },
+  {
+    "name": "贵州",
+    "capital": "黔西南布依族苗族自治州",
+    "licensePlate": "贵G",
+    "idCard": "522300"
+  },
+  {
+    "name": "贵州",
+    "capital": "黔东南苗族侗族自治州",
+    "licensePlate": "贵H",
+    "idCard": "522600"
+  },
+  {
+    "name": "贵州",
+    "capital": "黔南布依族苗族自治州",
+    "licensePlate": "贵I",
+    "idCard": "522700"
+  }
+]
